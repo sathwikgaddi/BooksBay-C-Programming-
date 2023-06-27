@@ -4,9 +4,9 @@
 
 Name:  BooksBay.
 
-Team Members:   1.Sathwik Gaddi    (gaddisathwik@gmail.com)
+Sathwik Gaddi    (gaddisathwik@gmail.com)
                 
-                2.Hrushikesh Sunkara   (hrushi027@gmail.com)
+               
 
 Description:
                    ->This is a simple book renting application.
